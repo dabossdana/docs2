@@ -10,7 +10,7 @@
     "keygen": "node scripts/keygen.js"
   },
   "dependencies": {
-    "mina-signer": "^2.1.1",
+    "mina-signer": "^2.1.2",
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18"
